@@ -1,6 +1,4 @@
 <?php
-if (!defined('BASEPATH'))
-    exit('No direct script access allowed');
 
 /**
  * Its a PHP class to convert date-time into particular timezone wise
