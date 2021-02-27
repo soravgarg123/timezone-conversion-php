@@ -16,7 +16,7 @@ To use this class first you have to require this class then you have to create o
 	$timezoneObj = new Timezone();
 ```
 
-#### Get All Timizones
+#### Get All Timezones
 
 Will get all timezones name with idetifires.
 
